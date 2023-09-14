@@ -27,15 +27,18 @@
    5. when there’s an interest surge from an account
    6. when accounts hit the product milestones that indicate they are getting value from the product.
 3. Reference implementations
-   1. Netlify (https://www.netlify.com/blog/2021/04/08/how-the-netlify-data-team-uses-census-for-operational-analytics/)
+   #### Netlify
+   (https://www.netlify.com/blog/2021/04/08/how-the-netlify-data-team-uses-census-for-operational-analytics/)
       ![image](https://github.com/khatwaniNikhil/Sales_Tech/assets/3686308/22bd9626-50d8-4c5c-a139-da4c1708775f)
-   2. Mixpanel (https://mixpanel.com/blog/data-analytics-product-led-growth/)
+   ### Mixpanel
+   (https://mixpanel.com/blog/data-analytics-product-led-growth/)
       ![image](https://github.com/khatwaniNikhil/Sales_Tech/assets/3686308/407d1831-e8c3-4f8b-9c13-e358beabd783)
        1. ability to drill down on a particular customer and view their activity across marketing, product, and sales and support functions
        2. ability to do behavioral analysis across our customer base[Focussed routing to sales team)
           1. Ideal customer profile (ICP)
           2. Clients who already see value after using product - identify customer product behaviours that correralate strongly to customer conversions to paid product
-    3. https://openviewpartners.com/blog/building-a-plg-data-product-analytics-stack-at-unity/
+   #### Unity
+   https://openviewpartners.com/blog/building-a-plg-data-product-analytics-stack-at-unity/
         1. lacked demographic data due to incognito sessions and gmail signups - explore tools like Clearbit and ZoomInfo.
 
       
