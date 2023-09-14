@@ -38,8 +38,8 @@
           1. Ideal customer profile (ICP)
           2. Clients who already see value after using product - identify customer product behaviours that correralate strongly to customer conversions to paid product
    #### Unity
-   https://openviewpartners.com/blog/building-a-plg-data-product-analytics-stack-at-unity/
-        1. lacked demographic data due to incognito sessions and gmail signups - explore tools like Clearbit and ZoomInfo.
+   1. https://openviewpartners.com/blog/building-a-plg-data-product-analytics-stack-at-unity/
+   2. lacked demographic data due to incognito sessions and gmail signups - explore tools like Clearbit and ZoomInfo.
 
       
 
